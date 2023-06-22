@@ -5,3 +5,4 @@
 <h2> Deploying on K8s- server </h2>
 <h2> Final changes </h2>
 <h2> GitHub Webhook </h2>
+<h2> Running the Job using Declarative Pipeline </h2>
